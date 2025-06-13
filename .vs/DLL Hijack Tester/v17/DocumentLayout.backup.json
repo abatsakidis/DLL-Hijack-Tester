@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mantis\\source\\repos\\DLL Hijack Tester\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A589150-DFAB-4A6A-8FE4-DA4C770ABD92}|DLL Hijack Tester\\DLL Hijack Tester.csproj|c:\\users\\mantis\\source\\repos\\dll hijack tester\\dll hijack tester\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A589150-DFAB-4A6A-8FE4-DA4C770ABD92}|DLL Hijack Tester\\DLL Hijack Tester.csproj|solutionrelative:dll hijack tester\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A589150-DFAB-4A6A-8FE4-DA4C770ABD92}|DLL Hijack Tester\\DLL Hijack Tester.csproj|c:\\users\\mantis\\source\\repos\\dll hijack tester\\dll hijack tester\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A589150-DFAB-4A6A-8FE4-DA4C770ABD92}|DLL Hijack Tester\\DLL Hijack Tester.csproj|solutionrelative:dll hijack tester\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A589150-DFAB-4A6A-8FE4-DA4C770ABD92}|DLL Hijack Tester\\DLL Hijack Tester.csproj|c:\\users\\mantis\\source\\repos\\dll hijack tester\\dll hijack tester\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A589150-DFAB-4A6A-8FE4-DA4C770ABD92}|DLL Hijack Tester\\DLL Hijack Tester.csproj|solutionrelative:dll hijack tester\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A589150-DFAB-4A6A-8FE4-DA4C770ABD92}|DLL Hijack Tester\\DLL Hijack Tester.csproj|c:\\users\\mantis\\source\\repos\\dll hijack tester\\dll hijack tester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A589150-DFAB-4A6A-8FE4-DA4C770ABD92}|DLL Hijack Tester\\DLL Hijack Tester.csproj|solutionrelative:dll hijack tester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mantis\\source\\repos\\DLL Hijack Tester\\DLL Hijack Tester\\MainForm.cs",
+              "RelativeDocumentMoniker": "DLL Hijack Tester\\MainForm.cs",
+              "ToolTip": "C:\\Users\\mantis\\source\\repos\\DLL Hijack Tester\\DLL Hijack Tester\\MainForm.cs [Design]",
+              "RelativeToolTip": "DLL Hijack Tester\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:54:33.711Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mantis\\source\\repos\\DLL Hijack Tester\\DLL Hijack Tester\\Program.cs",
+              "RelativeDocumentMoniker": "DLL Hijack Tester\\Program.cs",
+              "ToolTip": "C:\\Users\\mantis\\source\\repos\\DLL Hijack Tester\\DLL Hijack Tester\\Program.cs",
+              "RelativeToolTip": "DLL Hijack Tester\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:46:23.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\mantis\\source\\repos\\DLL Hijack Tester\\DLL Hijack Tester\\MainForm.cs",
+              "RelativeDocumentMoniker": "DLL Hijack Tester\\MainForm.cs",
+              "ToolTip": "C:\\Users\\mantis\\source\\repos\\DLL Hijack Tester\\DLL Hijack Tester\\MainForm.cs",
+              "RelativeToolTip": "DLL Hijack Tester\\MainForm.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAAAA0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:45:18.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mantis\\source\\repos\\DLL Hijack Tester\\DLL Hijack Tester\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "DLL Hijack Tester\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\mantis\\source\\repos\\DLL Hijack Tester\\DLL Hijack Tester\\MainForm.Designer.cs",
+              "RelativeToolTip": "DLL Hijack Tester\\MainForm.Designer.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T11:42:49.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
