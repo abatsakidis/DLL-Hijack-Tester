@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DLL Hijack Tester")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1af2c9e862c66af21c96dcd7f61fd24ff2343de")]
 [assembly: System.Reflection.AssemblyProductAttribute("DLL Hijack Tester")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DLL Hijack Tester")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

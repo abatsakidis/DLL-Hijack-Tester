@@ -14,3 +14,4 @@ C:\Users\mantis\source\repos\DLL Hijack Tester\DLL Hijack Tester\obj\Debug\net8.
 C:\Users\mantis\source\repos\DLL Hijack Tester\DLL Hijack Tester\obj\Debug\net8.0-windows\DLL Hijack Tester.pdb
 C:\Users\mantis\source\repos\DLL Hijack Tester\DLL Hijack Tester\obj\Debug\net8.0-windows\DLL Hijack Tester.genruntimeconfig.cache
 C:\Users\mantis\source\repos\DLL Hijack Tester\DLL Hijack Tester\obj\Debug\net8.0-windows\ref\DLL Hijack Tester.dll
+C:\Users\mantis\source\repos\DLL Hijack Tester\DLL Hijack Tester\obj\Debug\net8.0-windows\DLL Hijack Tester.sourcelink.json
