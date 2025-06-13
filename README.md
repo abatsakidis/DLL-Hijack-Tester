@@ -23,7 +23,7 @@
 
 ## 📷 Screenshot
 
-![DLL Hijack Tester Screenshot](screenshot.png) *(replace with your actual screenshot)*
+![DLL Hijack Tester Screenshot](screenshot.png) 
 
 ## 🛠️ How It Works
 
